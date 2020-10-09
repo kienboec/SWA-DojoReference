@@ -27,7 +27,7 @@
             <Grid>
                 <Grid.RowDefinitions>
                     <RowDefinition Height="*"/>
-                    <RowDefinition Height="100"/>
+                    <RowDefinition Height="100"/> <!-- consider to use Auto here -->
                 </Grid.RowDefinitions>
                 <StackPanel  Margin="5,0" Orientation="Vertical">
                     <Border BorderThickness="0,0,0,1" BorderBrush="LightGray">
